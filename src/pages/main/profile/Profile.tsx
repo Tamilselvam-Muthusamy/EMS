@@ -109,7 +109,7 @@ function Profile() {
               className="w-full flex flex-col space-y-4 justify-center items-center "
             >
               <PasswordInput
-                 data-autofocus
+                data-autofocus
                 label="Old Password"
                 placeholder="Enter old password"
                 withAsterisk
