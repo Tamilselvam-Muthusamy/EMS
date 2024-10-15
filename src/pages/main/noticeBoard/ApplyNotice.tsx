@@ -73,6 +73,7 @@ function ApplyNotice({ opened, closed }: any) {
             variant="filled"
             label="Remarks"
             withAsterisk
+            data-autofocus
             {...form.getInputProps("remarks")}
           />
           <Button type="submit">Apply</Button>
