@@ -103,7 +103,7 @@ function ViewLeaveStats() {
         <StatsCard
           title="Total Pending Leave Count"
           value={pendingCount.toString() ?? "0"}
-          color="green"
+          color="blue"
           shape="hexagon"
         />
       </div>
