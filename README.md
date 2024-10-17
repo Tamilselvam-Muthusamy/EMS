@@ -43,12 +43,18 @@ To run this project locally:
 
 3. Install dependencies:
     ```bash
-    npm install or bun install
+    npm install
+    ```
+    or
+    ```bash
+    bun install
     ```
 
 4. Start the development server:
     ```bash
     npm run dev
+    ...
+    ...bash
        or
     bun run dev
     ```
