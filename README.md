@@ -79,20 +79,37 @@ To run this project locally:
   - View and manage leave balances for each employee.
 
 ## Screenshots
+
+### Login
+![Screenshot from 2024-10-16 16-57-53](https://github.com/user-attachments/assets/80d399e4-5b71-4238-8d2c-4653c0d03f2a)
+
+### Admin Dashboard
+![Employee Dashboard Screenshot](https://github.com/user-attachments/assets/employee-dashboard.png)
+
+### User Module
+![Screenshot from 2024-10-16 17-12-47](https://github.com/user-attachments/assets/bd02784d-012c-4e74-a11e-6166bc60aa9f)
+
+### Department Module
+![Screenshot from 2024-10-16 17-13-54](https://github.com/user-attachments/assets/749c66ae-c552-4f82-9bb1-4c321ea2a40a)
+
 ### Employee Dashboard
 ![Employee Dashboard Screenshot](https://github.com/user-attachments/assets/employee-dashboard.png)
 
 ### Apply for Leave
-![Apply for Leave Screenshot](https://github.com/user-attachments/assets/apply-leave.png)
+![Screenshot from 2024-10-16 17-17-02](https://github.com/user-attachments/assets/dc897a08-ef1e-42e6-85e9-3a3f2f20cce5)
+![Screenshot from 2024-10-16 17-17-34](https://github.com/user-attachments/assets/7361224c-7279-49e9-9a53-62142e9c7e7a)
 
-### Leave Request Status
-![Leave Request Status Screenshot](https://github.com/user-attachments/assets/leave-status.png)
+### Apply for Permission
+![Screenshot from 2024-10-16 17-19-18](https://github.com/user-attachments/assets/aa2de763-8b91-4ab2-b52c-8a63dec6a5a0)
+![Screenshot from 2024-10-16 17-19-23](https://github.com/user-attachments/assets/4aff6d59-a1b5-4181-90ca-98d39175c540)
 
-### Department Lead Dashboard
-![Department Lead Dashboard Screenshot](https://github.com/user-attachments/assets/lead-dashboard.png)
+### Approve Leave and Permission
+![Screenshot from 2024-10-16 17-21-50](https://github.com/user-attachments/assets/f2a385a7-b1f2-4dc0-8333-27187a3e9af7)
+![Screenshot from 2024-10-16 17-21-37](https://github.com/user-attachments/assets/341961e6-8853-49f2-9e62-75459ef61f08)
 
-### Review Leave Requests
-![Review Leave Requests Screenshot](https://github.com/user-attachments/assets/review-requests.png)
+### Leave and Permission Stats
+![Screenshot from 2024-10-16 17-40-31](https://github.com/user-attachments/assets/79d8bdb9-76fa-4da7-9526-9c3f47aa2d1e)
+![Screenshot from 2024-10-16 17-40-48](https://github.com/user-attachments/assets/441cd630-8ed3-441e-a823-c5aaee28574c)
 
 ## Technologies Used
 - **React**: For building the user interface.
