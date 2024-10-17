@@ -84,7 +84,7 @@ To run this project locally:
 ![Screenshot from 2024-10-16 16-57-53](https://github.com/user-attachments/assets/80d399e4-5b71-4238-8d2c-4653c0d03f2a)
 
 ### Admin Dashboard
-![Employee Dashboard Screenshot](https://github.com/user-attachments/assets/employee-dashboard.png)
+![Screenshot from 2024-10-17 22-19-23](https://github.com/user-attachments/assets/32333c01-efc4-49f0-b225-386bb4555832)
 
 ### User Module
 ![Screenshot from 2024-10-16 17-12-47](https://github.com/user-attachments/assets/bd02784d-012c-4e74-a11e-6166bc60aa9f)
@@ -93,7 +93,7 @@ To run this project locally:
 ![Screenshot from 2024-10-16 17-13-54](https://github.com/user-attachments/assets/749c66ae-c552-4f82-9bb1-4c321ea2a40a)
 
 ### Employee Dashboard
-![Employee Dashboard Screenshot](https://github.com/user-attachments/assets/employee-dashboard.png)
+![Screenshot from 2024-10-17 22-18-39](https://github.com/user-attachments/assets/7ddae3d6-439c-4f2d-bab9-2e90d783b928)
 
 ### Apply for Leave
 ![Screenshot from 2024-10-16 17-17-02](https://github.com/user-attachments/assets/dc897a08-ef1e-42e6-85e9-3a3f2f20cce5)
