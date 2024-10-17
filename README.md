@@ -1,30 +1,93 @@
-# React + TypeScript + Vite
+# Employee Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This Employee Management System is a web application built using React, TypeScript, HTML, and CSS. It serves as a leave management portal where employees can apply for leave and permissions, and department leads can review and approve these requests. The system is designed to streamline the leave management process, making it easy for HR and management to track employee leave and permissions.
 
-Currently, two official plugins are available:
+## Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Employee Role](#employee-role)
+- [Department Lead Role](#department-lead-role)
+- [Screenshots](#screenshots)
+- [Technologies Used](#technologies-used)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- **Employee Role**:
+  - Apply for leave and permissions through a user-friendly interface.
+  - Track the status of leave requests (pending, approved, or denied).
+  - View remaining leave balances.
 
-## Expanding the ESLint configuration
+- **Department Lead Role**:
+  - Review and approve or deny leave and permission requests.
+  - Manage leave records for employees within the department.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- **Centralized Tracking**:
+  - Real-time tracking of leave requests and remaining balances.
+  - Centralized data for HR and management to efficiently manage employee leave records.
 
-- Configure the top-level `parserOptions` property like this:
+- **Responsive Design**:
+  - Designed with modern web standards to ensure usability across different devices.
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+## Installation
+To run this project locally:
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/employee-management-system.git
+    ```
+
+2. Navigate into the project directory:
+    ```bash
+    cd employee-management-system
+    ```
+
+3. Install dependencies:
+    ```bash
+    npm install
+    ```
+
+4. Start the development server:
+    ```bash
+    npm start
+    ```
+
+## Usage
+
+1. **Employee**: Log in to the portal to apply for leave and permissions. Monitor the status of requests and check leave balances.
+2. **Department Lead**: Log in to manage and review leave requests. Approve or reject employee leave applications.
+
+## Employee Role
+
+- Employees can perform the following actions:
+  - Apply for leave by selecting a date range and specifying the reason.
+  - Request permission for partial-day absences.
+  - Track the approval status of requests and view leave history.
+
+## Department Lead Role
+
+- Department leads can:
+  - Review all leave and permission requests submitted by employees within the department.
+  - Approve or deny leave requests based on organizational policies.
+  - View and manage leave balances for each employee.
+
+## Screenshots
+### Employee Dashboard
+![Employee Dashboard Screenshot](https://github.com/user-attachments/assets/employee-dashboard.png)
+
+### Apply for Leave
+![Apply for Leave Screenshot](https://github.com/user-attachments/assets/apply-leave.png)
+
+### Leave Request Status
+![Leave Request Status Screenshot](https://github.com/user-attachments/assets/leave-status.png)
+
+### Department Lead Dashboard
+![Department Lead Dashboard Screenshot](https://github.com/user-attachments/assets/lead-dashboard.png)
+
+### Review Leave Requests
+![Review Leave Requests Screenshot](https://github.com/user-attachments/assets/review-requests.png)
+
+## Technologies Used
+- **React**: For building the user interface.
+- **TypeScript**: For type safety and enhanced code quality.
+- **HTML and CSS**: For structuring and styling the application.
+- **React Router**: For navigation between pages.
