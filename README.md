@@ -53,8 +53,8 @@ To run this project locally:
 4. Start the development server:
     ```bash
     npm run dev
-    ...
-    or
+    ```
+       or
     ```bash
     bun run dev
     ```
