@@ -33,7 +33,7 @@ To run this project locally:
 
 1. Clone the repository:
     ```bash
-    https://github.com/Tamilselvam-Muthusamy/EMS.git
+    git clone git@github.com:Tamilselvam-Muthusamy/EMS.git
     ```
 
 2. Navigate into the project directory:
