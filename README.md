@@ -44,7 +44,7 @@ To run this project locally:
     ```bash
     npm install
     ```
-       or
+    or
     ```bash
     bun install
     ```
@@ -53,7 +53,7 @@ To run this project locally:
     ```bash
     npm run dev
     ```
-       or
+    or
     ```bash
     bun run dev
     ```
